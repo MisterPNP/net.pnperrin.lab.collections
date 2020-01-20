@@ -1,4 +1,4 @@
-package collection.labs;
+package net.jgp.pnp.labs.collections;
 
 import java.util.Arrays;
 import java.util.Map;
