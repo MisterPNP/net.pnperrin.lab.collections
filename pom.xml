@@ -27,7 +27,7 @@
 				<version>1.6.0</version>
 				<executions>
 					<execution>
-						<id>lab100</id>
+						<id>lab101</id>
 						<configuration>
 							<executable>java</executable>
 							<arguments>
@@ -38,7 +38,7 @@
 						</configuration>
 					</execution>
 					<execution>
-						<id>lab200</id>
+						<id>lab102</id>
 						<configuration>
 							<executable>java</executable>
 							<arguments>
