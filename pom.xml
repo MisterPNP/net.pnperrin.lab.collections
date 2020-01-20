@@ -48,6 +48,17 @@
 							</arguments>
 						</configuration>
 					</execution>
+					<execution>
+						<id>lab103</id>
+						<configuration>
+							<executable>java</executable>
+							<arguments>
+								<argument>-classpath</argument>
+								<classpath />
+								<argument>net.jgp.pnp.labs.collections.LinkedHashmapLab</argument>
+							</arguments>
+						</configuration>
+					</execution>
 				</executions>
 
 			</plugin>
